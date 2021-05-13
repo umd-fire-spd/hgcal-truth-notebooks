@@ -17,6 +17,13 @@ pip install notebook
 pip install plotly
 ```
 
+Clone this repository:
+
+```
+git clone https://github.com/tklijnsma/hgcal-truth-notebooks.git
+cd hgcal-truth-notebooks
+```
+
 Download the data:
 
 ```
