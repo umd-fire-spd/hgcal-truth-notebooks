@@ -1,5 +1,9 @@
 # HGCAL truth tutorial notebooks
 
+additonal info for SPD students:
+--------------------------------
+needs 3.7+
+--------------------------------
 This repo requires python 3.
 
 First setup a virtual environment:
