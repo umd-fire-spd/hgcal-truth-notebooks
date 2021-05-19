@@ -3,6 +3,8 @@
 additonal info for SPD students:
 --------------------------------
 needs 3.7+
+need to use bash (just issue $ bash before running the setup below
+
 --------------------------------
 This repo requires python 3.
 
