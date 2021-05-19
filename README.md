@@ -3,7 +3,9 @@
 additonal info for SPD students:
 --------------------------------
 needs 3.7+
-need to use bash (just issue $ bash before running the setup below
+
+need to use bash (just issue $ bash before running the setup below)
+the package can be found here:https://pypi.org/project/devhgcaltruth/
 
 --------------------------------
 This repo requires python 3.
