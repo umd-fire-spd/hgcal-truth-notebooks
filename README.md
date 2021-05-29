@@ -2,13 +2,16 @@
 
 additonal info for SPD students:
 --------------------------------
-on the cluster: needs 3.7+
-need to use bash (just issue $ bash before running the setup below)
-the package can be found here:https://pypi.org/project/devhgcaltruth/
+on the cluster: 
+
+needs python 3.7+ (for this, set up CMSSW_11_1_0_pre8 and use python3 from there, for example).
+need to use bash (just issue $ bash before running the setup below).
 
 on Win10 anaconda:
+
 straightforward. may need to pip install wget. and re-install plotly:
 (pip install --upgrade --force-reinstall plotly) or simply use anaconda navigator's package installer, which is easier.
+if you need it, the package can be found here:https://pypi.org/project/devhgcaltruth/
 
 --------------------------------
 This repo requires python 3.
