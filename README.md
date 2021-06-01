@@ -7,6 +7,8 @@ on the cluster:
 needs python 3.7+ (for this, set up CMSSW_11_1_0_pre8 and use python3 from there, for example).
 need to use bash (just issue $ bash before running the setup below).
 
+Please do not issue wget on the cluster to download the event root files. There is a copy of this repo and the ntups/ directory in /data/users/karagozm/hgcal-truth-notebooks
+
 on Win10 anaconda:
 
 straightforward. may need to pip install wget. and re-install plotly:
