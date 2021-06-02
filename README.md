@@ -7,7 +7,7 @@ on the cluster:
 needs python 3.7+ (for this, set up CMSSW_11_1_0_pre8 and use python3 from there, for example).
 need to use bash (just issue $ bash before running the setup below).
 
-Please do not issue wget on the cluster to download the event root files. There is a copy of this repo and the ntups/ directory in /data/users/karagozm/hgcal-truth-notebooks
+Please do not issue wget on the cluster to download the event root files. There is a copy of this repo and the ntups/ directory in /data/users/karagozm/hgcal-truth-notebooks. So instead of "Download the data" section, simply issue: **$ln -s /data/users/karagozm/hgcal-truth-notebooks/ntups .**
 
 on Win10 anaconda:
 
